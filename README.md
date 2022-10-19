@@ -7,7 +7,7 @@
 
 ### 项目介绍
 
-[Hackathon 2021 Readme](https://ti-click.com)
+[Ti-Click官网](https://ti-click.com)
 
 **通过Online IDE的方式，可以让用户以最简便的方式部署Sample App。**
 
