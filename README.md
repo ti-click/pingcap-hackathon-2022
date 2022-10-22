@@ -11,6 +11,17 @@
 
 **通过Online IDE的方式，可以让用户以最简便的方式部署Sample App。**
 
+### 项目Demo
+
+[Ti-Click的Example App墙](https://ti-click.com)
+
+### 项目关联Repo
+- [Ti-Click Example App List Repo](https://github.com/it2911/ti-click-plus-plus)
+- [laravel-with-colopl-tidb-driver-realworld-example-app](https://github.com/ti-click/laravel-with-colopl-tidb-driver-realworld-example-app)
+- [conduit-realworld-example-app-base-nodejs](https://github.com/ti-click/conduit-realworld-example-app-base-nodejs)
+- [golang-tidb-realworld-example-app](https://github.com/ti-click/golang-tidb-realworld-example-app)
+- [realworld-base-django](https://github.com/ti-click/realworld-base-django)
+
 ### 现存问题
 
 TiDB是一款有infra属性的产品，所以对开发人员来说，缺乏直观的使用感受。尤其是在对用户进行宣传的时候，会有一些困难。目前面对开发者，我们包括友商提供的仅仅是文档。在github上提供一些Example。但是，要知道，一名开发者在部署一个Example的时候，他要配置环境，下载依赖，进行编译。这些行为麻烦不说，还有可能对他的本地环境产生影响。
